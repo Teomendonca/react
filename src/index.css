@@ -18,11 +18,16 @@ body {
   padding: 50px 16%;
 }
 
-input {
-  width: 97%;
+/* input {
+  width: 100%;
   padding: 10px;
-}
 
+} */
+#descricao{
+  height: 100px;
+  padding: 10px;
+  margin-bottom: 55px;
+}
 button {
   margin-top: 10px;
   padding: 10px;
